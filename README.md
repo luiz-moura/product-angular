@@ -1,27 +1,52 @@
-# Frontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
+# Angular Crud Product
 
-## Development server
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+![Node](https://img.shields.io/node/v/@angular/core)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+A simple product crud
 
-## Code scaffolding
+![angular](https://user-images.githubusercontent.com/57726726/168894590-503f0249-d0fd-42d2-8b39-28d8f2819e74.gif)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Technologies
 
-## Build
+ - [Angular](https://symfony.com/doc/current/frontend/encore/installation.html)
+ - [Angular Material](https://symfony.com/bundles/SymfonyMakerBundle/current/index.html)
+ - [JSON Server](https://symfony.com/doc/current/components/asset.html)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Authors
 
-## Running unit tests
+- [@luizmoura](https://www.github.com/luiz-moura)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## Run Locally
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Clone the project
 
-## Further help
+```bash
+  git clone https://github.com/luiz-moura/product-angular.git
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Go to the project directory
+
+```bash
+  cd product-angular
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the back-end server
+
+```bash
+  npm run server
+```
+
+Start the project
+
+```bash
+  npm start
+```
