@@ -10,8 +10,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ProductCreateComponent implements OnInit {
   product: Product = {
-    name: 'Produto teste',
-    price: 99.99,
+    name: '',
+    price: 0,
   }
 
   constructor(
