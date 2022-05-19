@@ -24,13 +24,13 @@ A simple product crud
 Clone the project
 
 ```bash
-  git clone https://github.com/luiz-moura/product-angular.git
+  git clone https://github.com/luiz-moura/product-crud-angular.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd product-angular
+  cd product-crud-angular
 ```
 
 Install dependencies
